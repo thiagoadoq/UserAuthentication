@@ -12981,11 +12981,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\Teste-API\\GitHub\\RegistrationUser\\RegistrationUser.csproj",
+      "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\Teste-API\\GitHub\\UserAuthentication\\RegistrationUser\\RegistrationUser.csproj",
       "projectName": "RegistrationUser",
-      "projectPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\Teste-API\\GitHub\\RegistrationUser\\RegistrationUser.csproj",
+      "projectPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\Teste-API\\GitHub\\UserAuthentication\\RegistrationUser\\RegistrationUser.csproj",
       "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\Teste-API\\GitHub\\RegistrationUser\\obj\\",
+      "outputPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\Teste-API\\GitHub\\UserAuthentication\\RegistrationUser\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
