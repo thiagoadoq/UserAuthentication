@@ -1,0 +1,237 @@
+{
+	"info": {
+		"_postman_id": "fbc141b5-295d-4425-9cc4-57c5910b31be",
+		"name": "RegisterUser",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Person",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"type": "text",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userName\": \"Teste\",\r\n  \"cpf\": \"035.080.396.10\",\r\n  \"uf\": \"GO\",\r\n  \"dataNacimento\": \"2019-01-01T00:00:00\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5004/api/Person",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5004",
+					"path": [
+						"api",
+						"Person"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PersonsId",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"type": "text",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userName\": \"Teste\",\r\n  \"cpf\": \"035.080.396.10\",\r\n  \"uf\": \"GO\",\r\n  \"dataNacimento\": \"2019-01-01T00:00:00\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5004/api/User/5f9c9112-7a59-4261-8f74-171cb75495ae",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5004",
+					"path": [
+						"api",
+						"User",
+						"5f9c9112-7a59-4261-8f74-171cb75495ae"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PersonUf",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"type": "text",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userName\": \"Teste\",\r\n  \"cpf\": \"035.080.396.10\",\r\n  \"uf\": \"GO\",\r\n  \"dataNacimento\": \"2019-01-01T00:00:00\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5004/api/User/5f9c9112-7a59-4261-8f74-171cb75495ae",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5004",
+					"path": [
+						"api",
+						"User",
+						"5f9c9112-7a59-4261-8f74-171cb75495ae"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Persons",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"type": "text",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userName\": \"Teste\",\r\n  \"cpf\": \"035.080.396.10\",\r\n  \"uf\": \"GO\",\r\n  \"dataNacimento\": \"2019-01-01T00:00:00\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5004/api/Person",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5004",
+					"path": [
+						"api",
+						"Person"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "UserAuth",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"type": "text",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userName\": \"Teste\",\r\n  \"senha\":\"1323\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5004/api/Auth",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5004",
+					"path": [
+						"api",
+						"Auth"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PersonUpdate",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"type": "text",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userName\": \"Teste\",\r\n  \"cpf\": \"035.080.396.10\",\r\n  \"uf\": \"GO\",\r\n  \"dataNacimento\": \"2019-01-01T00:00:00\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5004/api/Person",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5004",
+					"path": [
+						"api",
+						"Person"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

@@ -1,0 +1,44 @@
+C:\Users\Cliente\source\repos\RegistrationUser\RegistrationUser\bin\Debug\netcoreapp2.2\RegistrationUser.deps.json
+C:\Users\Cliente\source\repos\RegistrationUser\RegistrationUser\bin\Debug\netcoreapp2.2\RegistrationUser.runtimeconfig.json
+C:\Users\Cliente\source\repos\RegistrationUser\RegistrationUser\bin\Debug\netcoreapp2.2\RegistrationUser.runtimeconfig.dev.json
+C:\Users\Cliente\source\repos\RegistrationUser\RegistrationUser\bin\Debug\netcoreapp2.2\RegistrationUser.dll
+C:\Users\Cliente\source\repos\RegistrationUser\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.csprojAssemblyReference.cache
+C:\Users\Cliente\source\repos\RegistrationUser\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\RegistrationUser\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.RazorAssemblyInfo.cache
+C:\Users\Cliente\source\repos\RegistrationUser\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.RazorAssemblyInfo.cs
+C:\Users\Cliente\source\repos\RegistrationUser\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.AssemblyInfoInputs.cache
+C:\Users\Cliente\source\repos\RegistrationUser\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.AssemblyInfo.cs
+C:\Users\Cliente\source\repos\RegistrationUser\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.RazorTargetAssemblyInfo.cache
+C:\Users\Cliente\source\repos\RegistrationUser\RegistrationUser\bin\Debug\netcoreapp2.2\RegistrationUser.pdb
+C:\Users\Cliente\source\repos\RegistrationUser\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.dll
+C:\Users\Cliente\source\repos\RegistrationUser\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.pdb
+C:\Users\Cliente\source\repos\RegistrationUser\Novo\RegistrationUser\bin\Debug\netcoreapp2.2\RegistrationUser.deps.json
+C:\Users\Cliente\source\repos\RegistrationUser\Novo\RegistrationUser\bin\Debug\netcoreapp2.2\RegistrationUser.runtimeconfig.json
+C:\Users\Cliente\source\repos\RegistrationUser\Novo\RegistrationUser\bin\Debug\netcoreapp2.2\RegistrationUser.runtimeconfig.dev.json
+C:\Users\Cliente\source\repos\RegistrationUser\Novo\RegistrationUser\bin\Debug\netcoreapp2.2\RegistrationUser.dll
+C:\Users\Cliente\source\repos\RegistrationUser\Novo\RegistrationUser\bin\Debug\netcoreapp2.2\RegistrationUser.pdb
+C:\Users\Cliente\source\repos\RegistrationUser\Novo\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.csprojAssemblyReference.cache
+C:\Users\Cliente\source\repos\RegistrationUser\Novo\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\RegistrationUser\Novo\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.RazorAssemblyInfo.cache
+C:\Users\Cliente\source\repos\RegistrationUser\Novo\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.RazorAssemblyInfo.cs
+C:\Users\Cliente\source\repos\RegistrationUser\Novo\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.AssemblyInfoInputs.cache
+C:\Users\Cliente\source\repos\RegistrationUser\Novo\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.AssemblyInfo.cs
+C:\Users\Cliente\source\repos\RegistrationUser\Novo\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.RazorTargetAssemblyInfo.cache
+C:\Users\Cliente\source\repos\RegistrationUser\Novo\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.dll
+C:\Users\Cliente\source\repos\RegistrationUser\Novo\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Teste-API\RegistrationUser\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Teste-API\RegistrationUser\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Teste-API\RegistrationUser\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Teste-API\RegistrationUser\bin\Debug\netcoreapp2.2\RegistrationUser.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Teste-API\RegistrationUser\bin\Debug\netcoreapp2.2\RegistrationUser.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Teste-API\RegistrationUser\bin\Debug\netcoreapp2.2\RegistrationUser.runtimeconfig.dev.json
+C:\Users\thiag\OneDrive\Área de Trabalho\Teste-API\RegistrationUser\bin\Debug\netcoreapp2.2\RegistrationUser.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Teste-API\RegistrationUser\bin\Debug\netcoreapp2.2\RegistrationUser.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\Teste-API\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.csprojAssemblyReference.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Teste-API\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.RazorAssemblyInfo.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Teste-API\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.RazorAssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Teste-API\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Teste-API\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\Teste-API\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.RazorTargetAssemblyInfo.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\Teste-API\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\Teste-API\RegistrationUser\obj\Debug\netcoreapp2.2\RegistrationUser.pdb
