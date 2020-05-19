@@ -12818,11 +12818,12 @@
       ]
     },
     "System.Xml.XmlSerializer/4.3.0": {
-      "sha512": "VShQJhOxgD/5M2Z1IWm1vMaSqlbjo1zdFf8H7Ahte6bTvSUhUko/gDpAVVhGgGgTDeue4QyNg1fu1Zz2GKSEuQ==",
+      "sha512": "MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -12981,11 +12982,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\Teste-API\\GitHub\\UserAuthentication\\RegistrationUser\\RegistrationUser.csproj",
+      "projectUniqueName": "C:\\Estudos\\UserAuthentication\\RegistrationUser\\RegistrationUser.csproj",
       "projectName": "RegistrationUser",
-      "projectPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\Teste-API\\GitHub\\UserAuthentication\\RegistrationUser\\RegistrationUser.csproj",
+      "projectPath": "C:\\Estudos\\UserAuthentication\\RegistrationUser\\RegistrationUser.csproj",
       "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\Teste-API\\GitHub\\UserAuthentication\\RegistrationUser\\obj\\",
+      "outputPath": "C:\\Estudos\\UserAuthentication\\RegistrationUser\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13055,7 +13056,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

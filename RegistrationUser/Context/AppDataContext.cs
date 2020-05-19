@@ -9,8 +9,8 @@ namespace RegistrationUser.Context
 {
     public class AppDataContext
     {
-        //Criando o arquivo Register.db no diretório especificado.
-        private static string LOG_LITE_DB_PATH => Path.Combine(GetAppDataPath(), "Register.db");
+        //Criando o arquivo  no diretório especificado.
+        private static string LOG_LITE_DB_PATH => Path.Combine(GetAppDataPath(), "Teydets.db");
 
         //Criando inserção de dados no banco.
         public static Person  Insert(Person person)
@@ -99,7 +99,7 @@ namespace RegistrationUser.Context
         //Criando o diretório na pasta Data do projeto.
         private static string GetAppDataPath()
         {
-            string path = Path.Combine(Directory.GetCurrentDirectory(), "Data");
+            string path = Path.Combine(Directory.GetCurrentDirectory(), @"C:\db.sqlite");
 
             if (!Directory.Exists(path))
                 Directory.CreateDirectory(path);

@@ -9,7 +9,7 @@ namespace RegistrationUser.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class PersonController : ControllerBase
+    public class AlunoController : ControllerBase
     {
 
         /// <summary>
